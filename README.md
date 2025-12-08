@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm [Your Username]!
+# 👋 Hi, I'm BabsBuild!
 
 Full-stack Web3 builder specializing in privacy protocols, blockchain games, and decentralized apps on Base. Actively shipping Shield—a trustless file/message sharing dapp with on-chain access control and client-side encryption. [memory:2][memory:16]
 
@@ -12,17 +12,8 @@ Full-stack Web3 builder specializing in privacy protocols, blockchain games, and
 
 ## 🚀 Featured Projects
 
-- **[Shield](https://github.com/[yourusername]/shield)**  
+- **[Shield](https://github.com/babs0022/shield)**  
   Decentralized privacy dapp: Encrypt files/messages client-side, store on IPFS, enforce access via Base smart contracts (Shield.sol with AccessPolicy structs). Features SIWE auth, ephemeral links, and dev API in progress. Live at [shieldhq.xyz](https://shieldhq.xyz). [memory:2][memory:16]
-
-- **Asseti (Mario-like Blockchain Game)**  
-  Platformer with on-chain tokenomics: Mint non-transferable in-game points that convert to real tokens at TGE. Built for Web3 gaming. [memory:12]
-
-- **Gasless Token Transfers**  
-  ERC-20 transfers from zero-ETH wallets using EIP-2612 permits + relayer backend. WalletConnect integration on Base. [conversation_history:18]
-
-- **Base Wallet Dashboard**  
-  Monitors Base assets with connect-wallet modal (WalletConnect/Privy). Full-stack with analytics. [memory:7]
 
 ## 🛠️ Tech Stack
 
@@ -34,16 +25,16 @@ Full-stack Web3 builder specializing in privacy protocols, blockchain games, and
 
 ## 🌟 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[yourusername]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[yourusername]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=babs0022&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babs0022&layout=compact&theme=radical)
 
 ## 📈 Recent Activity
 
-![Recent Activity](https://github-readme-stats.vercel.app/api/pin/?username=[yourusername]&repo=shield&theme=radical)
+![Recent Activity](https://github-readme-stats.vercel.app/api/pin/?username=babs0022&repo=shield&theme=radical)
 
 ## 💼 Currently Building
 
-- Shield Developer API: REST endpoints for policy creation, encryption/upload flows [memory:1]
+- Shield Developer API: REST endpoints for policy creation, encryption/upload flows
 - Cross-platform game expansions (Java/TypeScript)
 - Portfolio site showcasing Web3 experiments [memory:11]
 
@@ -55,7 +46,7 @@ Full-stack Web3 builder specializing in privacy protocols, blockchain games, and
 - Builder grants/rewards
 
 ⭐ Star my repos! Let's build the decentralized future.  
-⚡ Deployed 10+ projects to production this year [memory:10]
+⚡ Deployed 10+ projects to production this year
 
 <div align="center">
 Built with ❤️ for Web3
