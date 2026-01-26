@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm BabsBuild!
+# 👋 Hi, I'm Babs!
 
-Full-stack Web3 builder specializing in privacy protocols, blockchain games, and decentralized apps on Base. Actively shipping Shield—a trustless file/message sharing dapp with on-chain access control and client-side encryption.
+Web3 builder, educator, technical writer and part-time researcher. I specialize building systems, tools and product that make complex workflows easier and bring meaniful solution to the digital space.
 
 [![Shield](https://img.shields.io/badge/Shield-Privacy%20Protocol-blueviolet?style=for-the-badge&logo=shield)](https://shieldhq.xyz)
 [![Base](https://img.shields.io/badge/Base-Build%20on%20Base-orange?style=for-the-badge&logo=base)](https://base.org)
@@ -37,6 +37,7 @@ Full-stack Web3 builder specializing in privacy protocols, blockchain games, and
 - Shield Developer API: REST endpoints for policy creation, encryption/upload flows
 - Cross-platform game expansions (Java/TypeScript)
 - Portfolio site showcasing Web3 experiments
+- Privacy based solutions.
 
 ## 🤝 Open to Collab
 
