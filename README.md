@@ -49,6 +49,3 @@ Web3 builder, educator, technical writer and part-time researcher. I specialize 
 ⭐ Star my repos! Let's build the decentralized future.  
 ⚡ Deployed 10+ projects to production this year
 
-<div align="center">
-Built with ❤️ for Web3
-</div>
