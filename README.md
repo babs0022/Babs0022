@@ -7,8 +7,8 @@ Web3 builder, educator, technical writer and part-time researcher. I specialize 
 </div>
 
 ## What I'm working on:
-Shield - decentralized application for sharing confidential contents securely without privacy worries. 
-BabsXBT - autonomous agent for research and analysis. 
+**Shield** - decentralized application for sharing confidential contents securely without privacy worries. 
+**BabsXBT** - autonomous agent for research and analysis. 
 
 
 ## I'm open to colab and working together. Check contact details in bio. 
